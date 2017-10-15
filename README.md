@@ -9,3 +9,6 @@ Type : Arborescence
 
 ## Objectif
 Uniquement à l'aide du terminal, explorer et cartographier l'arborescence du dossier du challenge.
+
+## Résultat
+![result](S1-J2-challenge-arborescence.jpg)
